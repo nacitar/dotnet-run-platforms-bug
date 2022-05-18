@@ -6,6 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <Platforms>x64</Platforms>
+    <!-- hacked in to avoid dotnet run bug -->
+    <Platform>x64</Platform>
   </PropertyGroup>
 
 </Project>
